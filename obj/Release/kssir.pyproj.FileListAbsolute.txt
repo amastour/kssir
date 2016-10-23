@@ -1,0 +1,9 @@
+c:\users\mockingjay\documents\visual studio 2015\Projects\kssir\kssir\bin\Microsoft.PythonTools.WebRole.dll
+c:\users\mockingjay\documents\visual studio 2015\Projects\kssir\kssir\bin\AzureSetup.cfg
+c:\users\mockingjay\documents\visual studio 2015\Projects\kssir\kssir\bin\Microsoft.PythonTools.AzureSetup.exe
+c:\users\mockingjay\documents\visual studio 2015\Projects\kssir\kssir\bin\Microsoft.PythonTools.AzureSetup.exe.config
+c:\users\mockingjay\documents\visual studio 2015\Projects\kssir\kssir\bin\wfastcgi.py
+c:\users\mockingjay\documents\visual studio 2015\Projects\kssir\kssir\obj\Release\deployment-updated-orig-prefix.txt
+c:\users\mockingjay\documents\visual studio 2015\Projects\kssir\kssir\ptvs_virtualenv_proxy.py
+c:\users\mockingjay\documents\visual studio 2015\Projects\kssir\kssir\obj\Release\web.config
+c:\users\mockingjay\documents\visual studio 2015\Projects\kssir\kssir\obj\Release\web.debug.config
